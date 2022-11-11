@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: #21222a;
+  color: #61dafb;
+  display: flex;
+  align-items: center;
+  height: 90px;
+  padding: 30px 25px;
+  width: 100%;
+}
+
+.logo {
+  display: flex;
+  margin: 30px 8px 36px 27px;
+}
+
+.react-facts {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 8px;
+}
+
+.extra-title {
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  text-align: right;
+  align-items: center;
+  justify-content: center;
+  padding-left: 180px;
+  padding-bottom: 5px;
+  letter-spacing: 0.5px;
+}
